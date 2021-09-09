@@ -1255,6 +1255,11 @@ You are very welcome to contribute in this project. You can:
 <td><a href="https://github.com/dipu-bd"><img src="https://avatars.githubusercontent.com/u/5158124?v=4&s=24" alt="dipu-bd" height="24"/></a> <a href="https://github.com/SirGryphin"><img src="https://avatars.githubusercontent.com/u/36343615?v=4&s=24" alt="SirGryphin" height="24"/></a> <a href="https://github.com/Galunid"><img src="https://avatars.githubusercontent.com/u/10298730?v=4&s=24" alt="Galunid" height="24"/></a></td>
 </tr>
 <tr><td><span title="Supports searching"></span><span title="Supports login"></span></td>
+<td><a href="https://www.literotica.com/" target="_blank">https://www.literotica.com/</a></td>
+<td><a href="https://github.com/dipu-bd/lightnovel-crawler/blob/master/sources/literotica.py" title="09 September 2021 10:07:42 PM">3</a></td>
+<td><a href="https://github.com/dipu-bd"><img src="https://avatars.githubusercontent.com/u/5158124?v=4&s=24" alt="dipu-bd" height="24"/></a></td>
+</tr>
+<tr><td><span title="Supports searching"></span><span title="Supports login"></span></td>
 <td><a href="https://www.lunarletters.com/" target="_blank">https://www.lunarletters.com/</a></td>
 <td><a href="https://github.com/dipu-bd/lightnovel-crawler/blob/master/sources/lunarletters.py" title="16 July 2021 05:11:58 PM">11</a></td>
 <td><a href="https://github.com/dipu-bd"><img src="https://avatars.githubusercontent.com/u/5158124?v=4&s=24" alt="dipu-bd" height="24"/></a> <a href="https://github.com/SirGryphin"><img src="https://avatars.githubusercontent.com/u/36343615?v=4&s=24" alt="SirGryphin" height="24"/></a></td>
